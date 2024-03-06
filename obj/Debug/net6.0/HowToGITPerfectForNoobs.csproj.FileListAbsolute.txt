@@ -1,0 +1,15 @@
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\bin\Debug\net6.0\HowToGITPerfectForNoobs.exe
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\bin\Debug\net6.0\HowToGITPerfectForNoobs.deps.json
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\bin\Debug\net6.0\HowToGITPerfectForNoobs.runtimeconfig.json
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\bin\Debug\net6.0\HowToGITPerfectForNoobs.dll
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\bin\Debug\net6.0\HowToGITPerfectForNoobs.pdb
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\HowToGITPerfectForNoobs.csproj.AssemblyReference.cache
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\HowToGITPerfectForNoobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\HowToGITPerfectForNoobs.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\HowToGITPerfectForNoobs.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\HowToGITPerfectForNoobs.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\HowToGITPerfectForNoobs.dll
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\refint\HowToGITPerfectForNoobs.dll
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\HowToGITPerfectForNoobs.pdb
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\HowToGITPerfectForNoobs.genruntimeconfig.cache
+C:\Users\maxim\RiderProjects\HowToGITPerfectForNoobs\HowToGITPerfectForNoobs\obj\Debug\net6.0\ref\HowToGITPerfectForNoobs.dll
